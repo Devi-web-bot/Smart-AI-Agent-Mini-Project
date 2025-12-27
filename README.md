@@ -17,6 +17,4 @@ An intelligent AI-based question answering system developed using Python and NLP
 - Gradio
 
 ## ▶️ How to Run
--Open Google Colab
--Add the given code in  the Notebook
--Run all
+-Open Google Colab and add the given code in  the Notebook at last run all you can access the output through link or in the output section
